@@ -7,6 +7,11 @@ The code is ***legacy**.
 * brute accs
 * check accs
 * display owner name, login, password, balance
+* rebrute
+* threads
+* timeout
+* brute statistics
+* low memory use
 
 ### Learn More ###
 
