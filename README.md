@@ -17,7 +17,7 @@ The code is ***legacy**.
 
 * Project: Beeline Internet Brute & Checker
 * Version: 3.0
-* Delphi: xe3 (recomended)
+* Delphi: xe3 (recommended)
 
 ### How to use ###
 
