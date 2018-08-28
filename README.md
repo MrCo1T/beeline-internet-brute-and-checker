@@ -4,8 +4,9 @@ Software for find passwords for Internet users from Beeline
 The code is ***legacy**.
 
 ### Features ###
-* shortening long urls
-* save urls in DB
+* brute accs
+* check accs
+* display owner name, login, password, balance
 
 ### Learn More ###
 
